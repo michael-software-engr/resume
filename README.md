@@ -85,4 +85,4 @@ To obtain a position as a Full Stack, Back-End or Front-End Engineer
 
 ## Education
 
-Bachelor of Science, Electronics and Communications Engineering, 1997<br />
+Bachelor of Science in Electronics and Communications Engineering, 1997<br />
